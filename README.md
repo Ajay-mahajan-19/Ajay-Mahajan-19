@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋,I'm Ajay Mahajan</h1>
 <h3 align="center">I'm BCA Student</h3>
 <img align="right" src=" https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif " alt="image" width="200" >
+<img align="right"src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" alt="image" width="300" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay24012005&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-mahajan-19" /> </p>
 
 - 🌱 I’m currently learning **BCA**
