@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ajay-mahajan-19/Ajay-mahajan-19/blob/main/banner.jpg)
 <h1 align="center">Hi 👋,I'm Ajay Mahajan</h1>
 <h3 align="center">I'm BCA Student</h3>
-<img src=" https://img.freepik.com/free-vector/laptop-with-binary-code-screen_1308-114319.jpg?size=626&ext=jpg " alt="image" width="400" >
+<img align="right" src=" https://img.freepik.com/free-vector/laptop-with-binary-code-screen_1308-114319.jpg?size=626&ext=jpg " alt="image" width="300" height="300" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay24012005&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-mahajan-19" /> </p>
 
 - 🌱 I’m currently learning **BCA**
